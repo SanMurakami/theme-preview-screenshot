@@ -1,0 +1,12 @@
+{
+  "name": "theme-preview-screenshot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "CookieRamen",
+  "license": "MIT",
+  "dependencies": {
+    "firebase-admin": "^9.4.2",
+    "puppeteer": "^7.0.1"
+  }
+}
