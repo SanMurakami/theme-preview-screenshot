@@ -1,0 +1,12 @@
+{
+  "listenPort": 3000,
+  "firebase": {
+    "storageBucket": ""
+  },
+  "misskey": {
+    "url": "",
+    "username": "",
+    "id": "",
+    "token": ""
+  }
+}
