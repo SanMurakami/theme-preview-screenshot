@@ -66,5 +66,6 @@ node_modules/
 .env
 
 serviceAccountKey.json
+config.json
 
 .idea/
